@@ -136,7 +136,6 @@ def sendEmail(row):
         pyautogui.hotkey('ctrl', 'v')
         pyautogui.hotkey('ctrl', 'enter')
      
-
 def goToOutlook():
     pyautogui.press('winleft')
     pyautogui.write('edge')

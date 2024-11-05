@@ -1,1 +1,5 @@
+[browser]
 showSidebarNavigation = false
+
+[theme]
+hide_sidebar = true
