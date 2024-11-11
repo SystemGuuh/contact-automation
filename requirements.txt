@@ -1,4 +1,4 @@
 pandas
-PySimpleGUI
+pyautogui
 openpyxl
 streamlit
